@@ -1,0 +1,11 @@
+18/02/2024
+Hago esto por que ellas es una persona que le gusta escribir mucho, a mi no tanto
+asi que para mi es como una forma de conectarnos, yo dandole las herramientas y ella expresandose
+
+El objetivo de este proyecto es crear un diario para mi y mi pareja.
+
+Debe tener las siguientes funcionalidades
+Dejarnos mensajes uno a otro
+Subir imagenes y comentarlas
+Anotar fechas y eventos importantes y que puedan notificarme con tiempo
+la  fecha de entrega sera antes del 12/03/2024.
